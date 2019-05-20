@@ -1,4 +1,4 @@
-# Phone-Book-in-C
+# Phone-Book-in-C (Programming in C/C++ Course)
 This program is written in C.
 
 # Main file (employee list.c):
