@@ -6,6 +6,8 @@ Created a Phone Book in C & C++ that performs the following functality:
 2. Searching the person name that matches their First name.
 3. Stores the result in CSV file
 
+There are 2 files, **Phone-Book-in-C** & **Phone-Book-in-C++** that contains the Phone Book Code.
+
 # Thank You
 # Email: osamaafz@buffalo.edu / osama.afzal96@gmail.com
 # Linkedin - https://www.linkedin.com/in/osamaabaali/
