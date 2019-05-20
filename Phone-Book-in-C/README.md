@@ -1,7 +1,7 @@
 # Phone-Book-in-C (Programming in C/C++ Course)
 This program is written in C.
 
-# A - Main file (employee list.c)
+# A - Main file (employee_list.c)
 Main function is found in **employee_list.c** and begins by loading the employees that are already
 saved in a file named “**directory.txt**”. Loading the employee list is done by calling the function
 **load_el()**. A state machine is then entered to determine what the user would like to do. Options
