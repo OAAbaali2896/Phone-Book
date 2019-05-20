@@ -5,8 +5,11 @@ This program is written in C.
 Main function is found in **employee_list.c** and begins by loading the employees that are already
 saved in a file named “**directory.txt**”. Loading the employee list is done by calling the function
 **load_el()**. A state machine is then entered to determine what the user would like to do. Options
-1-4 are given: 1 adds a employee, 2 searches all employees by first name, 3 generates a CSV, and
-4 saves the changes to the file and exits the program. If any other number is entered, the program
+1-4 are given:
+1. adds a employee
+2. searches all employees by first name
+3. generates a CSV
+4. saves the changes to the file and exits the program. If any other number is entered, the program
 remains at this menu. A more detailed description of each option is given below.
 
 ## 1: Add Employee and Salary
