@@ -71,5 +71,6 @@ This function generatesa CSV based on occupation. The code should compare pos to
 # After Executing the Program
 In the file, **Phone-Book-in-C**:
 * **directory.txt** contains the list of 7 entries.
-* **csv_list_sal0.csv** is displays the entries that have their salaries less than $300,000.
+* **csv_list_sal0.csv** displays the entries that have their salaries less than $300,000.
+* **csv_list_pos0.csv** displays the entries that have their occupation to students.
 * **a.out** is the executable file after writting the command line in Linux Terminal: **gcc employee_list.c libel.c**.
