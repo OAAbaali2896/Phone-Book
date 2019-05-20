@@ -38,7 +38,3 @@ In the file, **Phone-Book-in-C**:
 * **directory.txt** contains the list of 7 entries.
 * **csv_list_sal0.csv** is displays the entries that have their salaries less than $300,000.
 * **a.out** is the executable file after writting the command line in Linux Terminal: **gcc employee_list.c libel.c**.
-
-# Thank You
-## Email: osamaafz@buffalo.edu / osama.afzal96@gmail.com
-## Linkedin - https://www.linkedin.com/in/osamaabaali/
