@@ -69,7 +69,7 @@ The second (**else if**) statement should check if the string **ml** is equal to
 This function generatesa CSV based on occupation. The code should compare pos to the company position (occupation) of each employee in the list. If the occupation is the occupation we are searching for, write it to the CSV with the file pointer **fp**.
 
 # After Executing the Program
-In the file, **Phone-Book-in-C**:
+In this folder:
 * **directory.txt** contains the list of 7 entries.
 * **csv_list_sal0.csv** displays the entries that have their salaries less than $300,000.
 * **csv_list_pos0.csv** displays the entries that have their occupation to students.
