@@ -44,7 +44,7 @@ Overall, the structure of this code is very similar.
 
 # After Executing the Program
 In the folder:
-* directory.txt contains the list of 7 entries.
-* csv_list_sal0.csv displays the entries that have their salaries more than $45,000.
-* csv_list_pos0.csv displays the entries that have their occupation to chef.
-* a.out is the executable file after writting the command line in Linux Terminal: g++ -std=c++11 libel.cpp employee_list.cpp.               
+* **directory.txt** contains the list of 7 entries.
+* **csv_list_sal0.csv** displays the entries that have their salaries more than $45,000.
+* **csv_list_pos0.csv** displays the entries that have their occupation to chef.
+* **a.out** is the executable file after writting the command line in Linux Terminal: **g++ -std=c++11 libel.cpp employee_list.cpp**.               
